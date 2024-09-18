@@ -5,7 +5,7 @@
 - <b>Java</b>
   - [OOP Cycling Race Simulator](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Battleships Game (AI opponent)]((https://github.com/53zarar/BattleshipsGame))
+  - [Battleships Game (AI opponent)](https://github.com/53zarar/BattleshipsGame)
   - [Machine Learning Models](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certifications:</h2>
