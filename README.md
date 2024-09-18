@@ -8,7 +8,8 @@
   - [Battleships Game (AI opponent)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Machine Learning Models](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📄 Certifications:</h2>
+- <b>Python | Programming Language | MongoDB | Django | XML | SQLite | GUI | Tkinter, Udemy</b>
 
 
 <!--
