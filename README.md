@@ -14,8 +14,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MohammedShahid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
 
-[email]: https://mailto:53zarar@gmail.com/
 [linkedin]: https://www.linkedin.com/in/mohammed-shahid-766942216/
 
