@@ -17,5 +17,5 @@
 [<img align="left" alt="JoshMadakor | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
 
 [email]: mailto:53zarar@gmail.com
-[linkedin]: [https://www.linkedin.com/in/mohammed-shahid-766942216/]
+[linkedin]: https://www.linkedin.com/in/mohammed-shahid-766942216/
 
